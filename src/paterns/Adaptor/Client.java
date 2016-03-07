@@ -1,4 +1,4 @@
-package paterns;
+package paterns.Adaptor;
 
 /**
  * Created by Оксана on 05.03.2016.
